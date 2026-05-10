@@ -1,0 +1,13 @@
+{
+  "name": "rakamin-workforce-intelligence",
+  "version": "1.0.0",
+  "description": "Workforce Intelligence Platform prototype — Medika Nusantara PM Case Study by C.M. Fajar (@fajaruuxyz)",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site — no build step needed'",
+    "preview": "npx serve ."
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
