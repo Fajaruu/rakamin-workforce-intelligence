@@ -17,7 +17,7 @@ This prototype makes one argument: **the data layer is the product.** Before any
 
 ## Live Demo
 
-→ **[rakamin-workforce-intelligence.vercel.app](https://rakamin-workforce-intelligence.vercel.app)**
+→ **https://rakamin-workforce-intelligence-v2.vercel.app/**
 
 ---
 
