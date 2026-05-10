@@ -1,7 +1,7 @@
 # Rakamin Workforce Intelligence Platform
 ### PM Case Study — Medika Nusantara Engagement
 
-**Built by C.M. Fajar** · [@fajaruuxyz](https://instagram.com/fajaruuxyz)
+**Built by M. Fajar** · [@fajaruuxyz](https://instagram.com/fajaruuxyz)
 
 ---
 
